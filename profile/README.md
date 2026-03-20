@@ -1,5 +1,7 @@
 <img src="https://github.com/DevsOutOfBounds/.github/blob/main/title_wt.png?raw=true" alt="Devs Out Of Bounds Title" width="100%" height="auto"></img>
 
+![Discord](https://img.shields.io/discord/1458480216644128882?style=for-the-badge&logo=discord&logoColor=%23FFFFFF&label=discord&link=https%3A%2F%2Fdiscord.gg%2FdyXVV7kQDT)
+
 <div id="root-title"></div>
 
 <h1>We Are Devs Out Of Bounds</h1>
@@ -72,3 +74,4 @@
 <p>
 	If you believe the industry can do better, and that better starts with engineers taking responsibility for the systems they build, you're welcome <a href="https://discord.gg/dyXVV7kQDT">here</a>.
 </p>
+<iframe src="https://discord.com/widget?id=1458480216644128882&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
