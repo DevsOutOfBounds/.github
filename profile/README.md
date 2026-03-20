@@ -73,5 +73,4 @@
 
 <p>
 	If you believe the industry can do better, and that better starts with engineers taking responsibility for the systems they build, you're welcome <a href="https://discord.gg/dyXVV7kQDT">here</a>.
-</p>
-<iframe src="https://discord.com/widget?id=1458480216644128882&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+</p>=
