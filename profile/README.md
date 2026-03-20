@@ -1,4 +1,5 @@
-<img src="https://github.com/DevsOutOfBounds/.github/blob/main/title_wt.png?raw=true" alt="Devs Out Of Bounds Title" width="100%" height="auto"></img>
+![Devs Out Of Bounds Title](https://github.com/DevsOutOfBounds/.github/blob/main/title_wt.png?raw=true#gh-dark-mode-only)
+![Devs Out Of Bounds Title](https://github.com/DevsOutOfBounds/.github/blob/main/title_bt.png?raw=true#gh-light-mode-only)
 
 ![Discord](https://img.shields.io/discord/1458480216644128882?style=for-the-badge&logo=discord&logoColor=%23FFFFFF&label=discord&link=https%3A%2F%2Fdiscord.gg%2FdyXVV7kQDT)
 
